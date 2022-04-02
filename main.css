@@ -1,0 +1,7 @@
+table,th,td
+{
+    border: 3px solid orange;
+    border-radius: collapse;
+    font-style: italic;
+    background-color: bisque;
+}
